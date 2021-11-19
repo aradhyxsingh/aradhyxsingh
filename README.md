@@ -2,7 +2,7 @@
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
 
-◦ Im a B.Tech fourth-year student at Vellore Institute Of Technology my field being Information Technology.
+◦ Im a B.Tech fourth year student at Vellore Institute Of Technology my field being Information Technology.
 
 ◦ I am a machine learning and Deep Learning enthusiast.
 
