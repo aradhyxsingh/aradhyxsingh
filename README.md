@@ -1,10 +1,10 @@
-<h3> ❄️ Hello World!!👋, I am Aradhya Singh Rathore</h3>
+<h3> 👽 Hey there Folks!!�, I am Aradhya Singh Rathore</h3>
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
 
 * Im a fourth-year student at Vellore Institute Of Technology pursuing in Information Technology.
 
-* I am a machine learning and automation enthusiast.
+* I am a machine learning and Deep Learning enthusiast.
 
 * I have experience in the field of Frontend Development, Competitive Coding, Machine Learning, Deep Learning and Computer Vision.💻
 
