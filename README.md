@@ -8,7 +8,7 @@
 
 * I have experience in the field of Frontend Development, Competitive Coding, Machine Learning, Deep Learning and Computer Vision.💻
 
-* Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/aradhya-singh/)
+* Connect with me on LinkedIn [Aradhya Singh](https://www.linkedin.com/in/aradhya-singh/)
 
 
 ### Software And Services Worked On :computer:
