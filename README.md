@@ -30,8 +30,8 @@
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"> 
 </td>
 <td align="center" width="20%">
- <div><b><center>Flask</center></b></div> 
-<img height=65px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/flask-logo.png"> 
+<div><b><center>MySQL</center></b></div> 
+<img height=55px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/Untitled.png"> 
 </td>
 <td align="center" width="20%">
 <div><b><center>Objective C & C++</center></b></div> 
@@ -47,14 +47,13 @@
 <div><b><center>Git</center></b></div> 
 <img height=60px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
-
 <td align="center" width="20%">
  <div><b><center>OpenCV</center></b></div> 
 <img height=70px src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"> 
 </td>
 <td align="center" width="20%">
-<div><b><center>MySQL</center></b></div> 
-<img height=55px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/Untitled.png"> 
+ <div><b><center>Flask</center></b></div> 
+<img height=65px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/flask-logo.png"> 
 </td>
  <td align="center" width="20%">
 <div><b><center>Scikit-learn</center></b></div> 
