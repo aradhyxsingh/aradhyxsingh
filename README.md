@@ -31,7 +31,7 @@
 </td>
 <td align="center" width="20%">
 <div><b><center>MySQL</center></b></div> 
-<img height=55px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/Untitled.png"> 
+<img height=65px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/Untitled.png"> 
 </td>
 <td align="center" width="20%">
 <div><b><center>Objective C & C++</center></b></div> 
