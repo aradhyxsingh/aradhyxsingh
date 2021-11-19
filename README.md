@@ -70,3 +70,5 @@ If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyxsingh&layout=compact&theme=dracula">
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aradhyxsingh&show_icons=true)
+
