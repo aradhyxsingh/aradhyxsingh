@@ -62,11 +62,11 @@
 </tr>
 </tbody>
 </table>
+<br>
 If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aradhyxsingh&show_icons=true&theme=merko">
 </a>
-<br>
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyxsingh&layout=compact&theme=merko">
 </a>
