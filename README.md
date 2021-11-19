@@ -68,7 +68,7 @@ If you like the Repository give it a :star: and also follow me on GitHub.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aradhyxsingh&show_icons=true&theme=dark">
 </a>
 <br>
-<a href="#">
+<a href="#" height=100px>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyxsingh&theme=dark">
 </a>
 
