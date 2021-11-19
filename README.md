@@ -54,7 +54,7 @@
 </td>
 <td align="center" width="20%">
 <div><b><center>MySQL</center></b></div> 
-<img height=55px src="https://drive.google.com/file/d/15atIWcZtsLss8WXJmRG5PuczqPzDbLbF/view?usp=sharing"> 
+<img height=55px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/Untitled.png"> 
 </td>
  <td align="center" width="20%">
 <div><b><center>Scikit-learn</center></b></div> 
