@@ -31,7 +31,7 @@
 </td>
 <td align="center" width="20%">
  <div><b><center>Flask</center></b></div> 
-<img height=65px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/Untitled.png"> 
+<img height=65px src="https://github.com/aradhyxsingh/aradhyxsingh/blob/master/flask-logo.png"> 
 </td>
 <td align="center" width="20%">
 <div><b><center>Objective C & C++</center></b></div> 
