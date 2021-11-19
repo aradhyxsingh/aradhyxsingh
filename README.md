@@ -1,4 +1,4 @@
-<h3> 👽 Hey there Folks!!�, I am Aradhya Singh Rathore</h3>
+<h3> 👽 Hey there Folks!!, I am Aradhya Singh Rathore</h3>
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
 
