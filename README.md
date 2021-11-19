@@ -71,5 +71,9 @@ If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyxsingh&theme=dark">
 </a>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aradhyxsingh&layout=compact&theme=dark">
+</a>
+
 
 
