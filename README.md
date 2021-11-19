@@ -2,13 +2,13 @@
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
 
-* Im a fourth-year student at Vellore Institute Of Technology pursuing in Information Technology.
+◦ Im a B.Tech fourth-year student at Vellore Institute Of Technology my field being Information Technology.
 
-* I am a machine learning and Deep Learning enthusiast.
+◦ I am a machine learning and Deep Learning enthusiast.
 
-* I have experience in the field of Frontend Development, Competitive Coding, Machine Learning, Deep Learning and Computer Vision.💻
+◦ I have experience in the field of Frontend Development, Competitive Coding, Machine Learning, Deep Learning and Computer Vision.💻
 
-* Connect with me on LinkedIn [Aradhya Singh](https://www.linkedin.com/in/aradhya-singh/)
+◦ Connect with me on LinkedIn [Aradhya Singh](https://www.linkedin.com/in/aradhya-singh/)
 
 
 ### Software And Services Worked On :computer:
