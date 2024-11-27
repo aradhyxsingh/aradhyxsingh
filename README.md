@@ -1,7 +1,7 @@
 <h3> Hey there folks!!, I am Aradhya </h3>
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
-◦ Senior Data Enginerr at Bajaj Finance
+◦ Senior Data Engineer at Bajaj Finance
 
 ◦ I am a B.Tech graduate from Vellore Institute Of Technology my field being Information Technology.
 
